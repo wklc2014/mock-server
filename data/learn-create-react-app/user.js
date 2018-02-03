@@ -1,6 +1,10 @@
 module.exports = {
-    success: 'ok',
-    data: {
-        total: 0
+    delay: 300,
+    code: 200,
+    response: {
+        success: 'ok',
+        data: {
+            content: "巴拉巴拉小魔仙全集"
+        }
     }
 }

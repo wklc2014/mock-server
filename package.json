@@ -19,6 +19,8 @@
   "homepage": "https://github.com/wklc2014/mock-server#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-mock-server": "^1.1.4"
-  }
+    "gulp-mock-server": "^1.1.4",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "dependencies": {}
 }
