@@ -1,5 +1,5 @@
 module.exports = {
-    delay: 300,
+    delay: 1000,
     code: 200,
     response: {
         success: 'ok',
