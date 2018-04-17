@@ -1,6 +1,6 @@
 module.exports = {
-    delay: 2000,
-    code: 200,
+    delay: 800,
+    code: 500,
     response: {
         success: true,
         data: {
