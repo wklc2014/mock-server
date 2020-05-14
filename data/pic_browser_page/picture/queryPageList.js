@@ -1,0 +1,157 @@
+module.exports = {
+  // delay: 800,
+  code: 200,
+  response: {
+    "errCode": null,
+    "errMsg": '模拟接口返回错误',
+    "resultObj": {
+      "total": 40,
+      "list": [
+        {
+          "cellStyleMap": {},
+          "id": 21260,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+062",
+          "defectTypeName": "焊缝",
+          "speed": "63.20",
+          "devName": "右轨外侧相机",
+          "picTime": "2018-06-17 14:00:55"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21265,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+015",
+          "defectTypeName": "焊缝",
+          "speed": "64.05",
+          "devName": "左轨内侧相机",
+          "picTime": "2018-06-17 14:00:46"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21268,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+102",
+          "defectTypeName": "焊缝",
+          "speed": "60.89",
+          "devName": "右轨外侧相机",
+          "picTime": "2018-06-17 13:55:09"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21269,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+055",
+          "defectTypeName": "焊缝",
+          "speed": "68.71",
+          "devName": "左轨外侧相机",
+          "picTime": "2018-06-17 13:53:58"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21270,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+068",
+          "defectTypeName": "焊缝",
+          "speed": "58.88",
+          "devName": "左轨外侧相机",
+          "picTime": "2018-06-17 14:01:15"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21272,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+009",
+          "defectTypeName": "焊缝",
+          "speed": "66.42",
+          "devName": "右轨内侧相机",
+          "picTime": "2018-06-17 13:52:25"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21273,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+033",
+          "defectTypeName": "焊缝",
+          "speed": "44.56",
+          "devName": "右轨外侧相机",
+          "picTime": "2018-06-17 13:54:50"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21274,
+          "line": "8号线",
+          "station": "万胜围",
+          "lineDir": "上行线",
+          "killoSub": "K0+022",
+          "defectTypeName": "焊缝",
+          "speed": "44.85",
+          "devName": "右轨外侧相机",
+          "picTime": "2018-06-17 13:54:23"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21285,
+          "line": "",
+          "station": "",
+          "lineDir": "上行线",
+          "killoSub": "K0+000",
+          "defectTypeName": "焊缝",
+          "speed": "0.00",
+          "devName": "左轨外侧相机",
+          "picTime": "2018-07-02 12:47:54"
+        },
+        {
+          "cellStyleMap": {},
+          "id": 21289,
+          "line": "",
+          "station": "",
+          "lineDir": "上行线",
+          "killoSub": "K0+000",
+          "defectTypeName": "焊缝",
+          "speed": "0.00",
+          "devName": "左轨外侧相机",
+          "picTime": "2018-07-02 12:48:27"
+        }
+      ],
+      "pageNum": 1,
+      "pageSize": 10,
+      "size": 10,
+      "startRow": 1,
+      "endRow": 10,
+      "pages": 4,
+      "prePage": 0,
+      "nextPage": 2,
+      "isFirstPage": true,
+      "isLastPage": false,
+      "hasPreviousPage": false,
+      "hasNextPage": true,
+      "navigatePages": 8,
+      "navigatepageNums": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "navigateFirstPage": 1,
+      "navigateLastPage": 4,
+      "firstPage": 1,
+      "lastPage": 4
+    },
+    "success": true,
+  }
+}
